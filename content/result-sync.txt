@@ -1,0 +1,1 @@
+Here is the ressult : ${first}, ${second}Here is the ressult : ${first}, ${second}Here is the result : ${first}, ${second}Here is the result : Hello first text file,  hello this is second text fileHere is the result : Hello first text file,  hello this is second text file
